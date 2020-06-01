@@ -5,7 +5,7 @@
 </h1>
 
 
-<img src="https://github.com/sudoosama/ConnectMe-FlutteWeb/blob/master/images/gitimage.JPG" height="600" width="950"> 
+<img src="https://github.com/sudoosama/ConnectMe-FlutteWeb/blob/master/images/gitimage.JPG" height="500" width="950"> 
 
 # Run you app in Chrome
 
